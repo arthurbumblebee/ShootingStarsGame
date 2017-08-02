@@ -1,2 +1,2 @@
 # carsGameVHDL
-A game developed using VHDL. You are supposed to dodge falling obstacles using the arrow keys or a, s, d, w on the keyboard.
+A game developed using python. You are supposed to shoot falling stars before they crash you.
